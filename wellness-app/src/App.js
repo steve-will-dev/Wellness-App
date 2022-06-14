@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Wellness App
+          Wellness Application
         </a>
       </header>
     </div>
